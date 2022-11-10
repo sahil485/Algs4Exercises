@@ -4,6 +4,7 @@ public class Test {
 
 	public static void main(String[] args) 
 	{
+		//test code
 		Heap test = new Heap();
 		test.insert("A");
 		test.insert("X");
